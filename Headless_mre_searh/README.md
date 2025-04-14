@@ -9,21 +9,23 @@ Provide a reference implementation to debug issues
 Share reproducible steps when reporting bugs
 Document minimal configuration and dependencies
 Help new contributors or teams understand the framework setup
-📁 Structure
-TBD
 
-🛠️ Setup
-Requirements
-Node.js >= 20
-npm or yarn
+This project was set up with [Vite](https://vitejs.dev/guide/#scaffolding-your-first-vite-project)
 
-Install
-git clone repo
-cd folder TBD
+## Setup
+
+Vite requires `Node.js` version 18+ or 20+, please upgrade if warned by your package manager.
 
 # Install dependencies
-npm install
+Clone or download the project and run `npm install` in the project directory.
 
 # Start the development server
 npm run dev
-Open your browser and navigate to localhost by default. 
+Runs the app in the development mode.\
+Open [http://localhost:5173](http://localhost:5173) to view it in the browser.
+
+
+
+
+
+
